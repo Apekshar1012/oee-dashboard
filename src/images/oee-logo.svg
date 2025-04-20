@@ -1,0 +1,21 @@
+<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="30" cy="30" r="25" fill="#3498db"/>
+  
+  <!-- AI Brain Pattern -->
+  <path d="M30,12 Q40,20 30,30 Q20,40 30,48" stroke="#ffffff" stroke-width="3" fill="none"/>
+  <path d="M20,20 Q30,28 20,35" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <path d="M40,20 Q30,28 40,35" stroke="#ffffff" stroke-width="2" fill="none"/>
+  
+  <!-- Connection Points -->
+  <circle cx="30" cy="12" r="2" fill="#ffffff"/>
+  <circle cx="30" cy="48" r="2" fill="#ffffff"/>
+  <circle cx="20" cy="20" r="1.5" fill="#ffffff"/>
+  <circle cx="20" cy="35" r="1.5" fill="#ffffff"/>
+  <circle cx="40" cy="20" r="1.5" fill="#ffffff"/>
+  <circle cx="40" cy="35" r="1.5" fill="#ffffff"/>
+  
+  <!-- Text -->
+  <text x="65" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#1a1a2e">OEE.ai</text>
+  <text x="65" y="50" font-family="Arial, sans-serif" font-size="12" fill="#4a4a6a">Operational Excellence</text>
+</svg>
